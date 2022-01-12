@@ -2,6 +2,8 @@
 The og project. u/SlothFactsBot, sloth fact extraordinaire
 
 ## Introduction
+Yep. This bot exists to post random sloth facts to unsuspecting users on reddit whenever sloths are mentioned.
+
 This began as a simple project to use the reddit Praw plugin. I've since grown pretty fond of this bot and periodically tweak it. It was originally written in 2.7 and I have since updated it for 3.7. I have also created a discord monitoring bot, so I can check on it on the go.
 
 ## The Bot
